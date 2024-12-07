@@ -30,7 +30,7 @@ jobs:
         with:
           context: ./
           push: true
-          tags: mMillenas/WA_FundCi_Lab03_02:latest
+          tags: millena24/webacademy:latest
 
   deploy:
     runs-on: ubuntu-latest
